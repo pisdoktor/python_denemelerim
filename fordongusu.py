@@ -8,6 +8,10 @@ for i in meyveler:
 
 for k in meyveler:
     if k == "elma":
-        print("ELMA")    
+        print("Apple")
+
+    elif k == "kivi":
+        print("Kiwi")
+
     else:
-        break
+        print(k)
