@@ -11,4 +11,6 @@ if z > x:
     print("Sen de büyüksün")
 
 if (x + y > z):
+    f = x + y
     print("Biz senden büyüğüz")
+    print(f)
