@@ -14,4 +14,4 @@ for k in meyveler:
         print("Kiwi")
 
     else:
-        print(k)
+        print(k.upper())

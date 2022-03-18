@@ -9,3 +9,6 @@ if x < y:
 
 if z > x:
     print("Sen de büyüksün")
+
+if (x + y > z):
+    print("Biz senden büyüğüz")
